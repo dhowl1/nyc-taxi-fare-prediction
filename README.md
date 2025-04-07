@@ -39,12 +39,7 @@ A machine learning system that predicts taxi fares in New York City using histor
 - Optimizes memory usage
 
 ### 4. Fare Prediction (`predict_fare.py`)
-- Real-time fare estimation
-- Company-specific pricing
-- Peak hour adjustments
-- Airport surcharge handling
-- Minimum fare enforcement
-- Weekend pricing rules
+- Currently working on this file
 
 ## Use Cases
 
