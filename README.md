@@ -72,7 +72,7 @@ Uses NYC Taxi & Limousine Commission (TLC) For-Hire Vehicle (FHV) trip data from
 3. Prepare taxi zone data: `python prepare_taxi_zones.py`
 4. Preprocess trip data: `python preprocess_taxi_data.py`
 5. Train the model: `python train_model.py`
-6. Make predictions: `python predict_fare.py`
+6. Make predictions: `python predict_fare.py` (currently unavailable)
 
 ### Example Prediction
 ```python
@@ -120,7 +120,6 @@ nyc-taxi-fare-prediction/
 - [ ] Add weather data integration
 - [ ] Implement traffic pattern analysis
 - [ ] Add special event detection
-- [ ] Deploy to cloud infrastructure
 - [ ] Create API endpoint for predictions
 - [ ] Add real-time surge pricing
 
@@ -128,11 +127,7 @@ nyc-taxi-fare-prediction/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- NYC Taxi & Limousine Commission for the dataset
-- Uber and Lyft for providing real-world pricing data 
+- NYC Taxi & Limousine Commission for the dataset 
