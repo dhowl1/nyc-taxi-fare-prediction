@@ -1,0 +1,10 @@
+echo "data/raw/*.parquet
+data/processed/*
+data/models/*
+data/raw/
+__pycache__/
+*.pyc
+.DS_Store
+.env" > .gitignore
+test_routes.py
+predict_fare.py
