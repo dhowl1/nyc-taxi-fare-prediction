@@ -8,7 +8,7 @@ A machine learning system that predicts taxi fares in New York City using histor
 - 🕒 Time-based pricing (peak hours, weekends, nights)
 - ✈️ Special handling for airport trips
 - 💰 Company-specific pricing models
-- 📊 84% prediction accuracy
+- 📊 87% prediction accuracy
 - 🔄 Real-time processing capabilities
 
 ## Technical Highlights
@@ -60,7 +60,7 @@ Uses NYC Taxi & Limousine Commission (TLC) For-Hire Vehicle (FHV) trip data from
 
 ## Performance
 
-- R² Score: 0.84 (84% accuracy)
+- R² Score: 0.87 (87% accuracy)
 - Processing Speed: 17-30 seconds per batch
 - Memory Efficient: Processes data in chunks
 - Scalable: Ready for cloud deployment
